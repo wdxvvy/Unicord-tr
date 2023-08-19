@@ -118,20 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BackButton.Content" xml:space="preserve">
-    <value>Back to safety!</value>
+    <value>Güvenliğe dön!</value>
   </data>
   <data name="ChannelWarningHeader.Text" xml:space="preserve">
-    <value>NSFW Content Ahead!</value>
+    <value>NSFW İçeriği!</value>
   </data>
   <data name="ChannelWarningSubheader.Text" xml:space="preserve">
-    <value>Hey! There's probably NSFW content ahead, so I'm legally obliged to make sure you're over 18.
+    <value>Hey! İleride muhtemelen NSFW içeriği var, bu yüzden yasal olarak 18 yaşından büyük olduğundan emin olmak zorundayım.
 
-Are you over 18 and willing to see NSFW content?</value>
+18 yaşından büyük müsünüz ve NSFW içeriğini görmek istiyor musunuz?</value>
   </data>
   <data name="ContinueButton.Content" xml:space="preserve">
-    <value>Take me there!</value>
+    <value>Beni oraya al!</value>
   </data>
   <data name="DontAskAgain.Content" xml:space="preserve">
-    <value>Don't ask me again!</value>
+    <value>Bana bir daha sorma!</value>
   </data>
 </root>
