@@ -118,70 +118,70 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AdvancedHeader.Header" xml:space="preserve">
-    <value>Advanced</value>
+    <value>Gelişmiş</value>
   </data>
   <data name="AlwaysCompress.Content" xml:space="preserve">
-    <value>Always compress before sending</value>
+    <value>Göndermeden önce daima sıkıştırın</value>
   </data>
   <data name="AudioOptionsHeader.Text" xml:space="preserve">
-    <value>Audio Options</value>
+    <value>Ses ayarları</value>
   </data>
   <data name="BitrateSlider.Header" xml:space="preserve">
     <value>Bitrate</value>
   </data>
   <data name="CompressIfNeeded.Content" xml:space="preserve">
-    <value>Compress if the file is above your upload limit</value>
+    <value>Dosya yükleme sınırınızın üzerindeyse sıkıştırın</value>
   </data>
   <data name="EncoderPriorityBox.Header" xml:space="preserve">
-    <value>Encoder Priority</value>
+    <value>Encoder Önceliği</value>
   </data>
   <data name="EncoderPriorityQuality.Content" xml:space="preserve">
-    <value>Prioritise quality, smaller file sizes</value>
+    <value>Kaliteye, daha küçük dosya boyutlarına öncelik verin</value>
   </data>
   <data name="EncoderPrioritySpeed.Content" xml:space="preserve">
-    <value>Prioritise speed, larger file sizes</value>
+    <value>Hıza, daha büyük dosya boyutlarına öncelik verin</value>
   </data>
   <data name="LargePresetItem.Text" xml:space="preserve">
-    <value>Large</value>
+    <value>Büyük</value>
   </data>
   <data name="LargePresetSubheader.Text" xml:space="preserve">
     <value>720p, ~1536kbps</value>
   </data>
   <data name="MediaCompressionBlock.Description" xml:space="preserve">
-    <value>Unicord can automatically compress audio, video and images to fit within your upload limit.</value>
+    <value>Unicord, yükleme sınırınıza sığması için ses, video ve görüntüleri otomatik olarak sıkıştırabilir.</value>
   </data>
   <data name="MediaCompressionBlock.Title" xml:space="preserve">
-    <value>Automatically Compress Media</value>
+    <value>Ortamı Otomatik Olarak Sıkıştır</value>
   </data>
   <data name="MediumPresetItem.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>Orta</value>
   </data>
   <data name="MediumPresetSubheader.Text" xml:space="preserve">
     <value>480p, ~768kbps</value>
   </data>
   <data name="NeverCompress.Content" xml:space="preserve">
-    <value>Never compress media</value>
+    <value>Ortamı asla sıkıştırma</value>
   </data>
   <data name="ResolutionBox.Header" xml:space="preserve">
-    <value>Resolution</value>
+    <value>Görüntü kalitesi</value>
   </data>
   <data name="SmallPresetItem.Text" xml:space="preserve">
-    <value>Small</value>
+    <value>Küçük</value>
   </data>
   <data name="SmallPresetSubheader.Text" xml:space="preserve">
     <value>360p, ~512kbps</value>
   </data>
   <data name="TinyPresetItem.Text" xml:space="preserve">
-    <value>Tiny</value>
+    <value>Minik</value>
   </data>
   <data name="TinyPresetSubheader.Text" xml:space="preserve">
     <value>144p, ~256kbps</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Audio and Video</value>
+    <value>Ses ve Görüntü</value>
   </data>
   <data name="VideoOptionsHeader.Text" xml:space="preserve">
-    <value>Video Options</value>
+    <value>Video ayarları</value>
   </data>
   <data name="VideoOptionsSubheader.Text" xml:space="preserve">
     <value>If you know what you're doing, you can adjust the quality, bitrate and resolution of the video output.</value>
