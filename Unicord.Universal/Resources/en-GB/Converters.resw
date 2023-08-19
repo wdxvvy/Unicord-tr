@@ -118,60 +118,60 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ListeningStatus" xml:space="preserve">
-    <value>Listening to</value>
+    <value>Dinliyor</value>
   </data>
   <data name="ListeningStatusFormat" xml:space="preserve">
-    <value>Listening to {0}</value>
+    <value>Dinliyor {0}</value>
   </data>
   <data name="PlayingStatus" xml:space="preserve">
-    <value>Playing</value>
+    <value>Oynuyor</value>
   </data>
   <data name="PlayingStatusFormat" xml:space="preserve">
-    <value>Playing {0}</value>
+    <value>Oynuyor {0}</value>
     <comment>these don't localise well</comment>
   </data>
   <data name="StreamingStatus" xml:space="preserve">
-    <value>Streaming</value>
+    <value>Yayınlıyor</value>
   </data>
   <data name="StreamingStatusFormat" xml:space="preserve">
-    <value>Streaming {0}</value>
+    <value>Yayınlıyor {0}</value>
     <comment>i'll refactor this at some point i promise</comment>
   </data>
   <data name="UserChannelIconChangeFormat" xml:space="preserve">
-    <value>{0} changed the channel icon.</value>
+    <value>{0} kanal ikonunu değiştirdi.</value>
   </data>
   <data name="UserChannelNameChangeFormat" xml:space="preserve">
-    <value>(0} changed the channel name.</value>
+    <value>(0} kanal ismini değiştirdi.</value>
   </data>
   <data name="UserJoinedGroupFormat" xml:space="preserve">
-    <value>{0} joined the group.</value>
+    <value>{0} gruba katıldı.</value>
   </data>
   <data name="UserLeftGroupFormat" xml:space="preserve">
-    <value>{0} left the group.</value>
+    <value>{0} gruptan çıktı.</value>
   </data>
   <data name="UserMessagePinFormat" xml:space="preserve">
-    <value>{0} pinned a message to this channel.</value>
+    <value>{0} bu kanala bir mesaj sabitledi.</value>
   </data>
   <data name="UserPremiumGuildSubscriptionFormat" xml:space="preserve">
-    <value>{0} boosted the server!</value>
+    <value>{0} sunucuyu boostladı!</value>
   </data>
   <data name="UserPremiumGuildSubscriptionTierFormat" xml:space="preserve">
-    <value>{0} boosted the server to level {2}!</value>
+    <value>{0} sunucuyu bu seviyeye kadar boostladı {2}!</value>
     <comment>user, boost level (number)</comment>
   </data>
   <data name="UserPremiumMultiGuildSubscriptionFormat" xml:space="preserve">
-    <value>{0} boosted the server **{1}** times!</value>
+    <value>{0} sunucuyu **{1}** kere boostladı</value>
   </data>
   <data name="UserPremiumMultiGuildSubscriptionTierFormat" xml:space="preserve">
-    <value>{0} boosted the server **{1}** times to level {2}!</value>
+    <value>{0}, sunucuyu {1} kez boostlayıp {2}. seviyeye yükseltti!</value>
   </data>
   <data name="UserStartedCallFormat" xml:space="preserve">
-    <value>{0} started a call.</value>
+    <value>{0} bir arama başlattı.</value>
   </data>
   <data name="WatchingStatus" xml:space="preserve">
-    <value>Watching</value>
+    <value>İzliyor</value>
   </data>
   <data name="WatchingStatusFormat" xml:space="preserve">
-    <value>Watching {0}</value>
+    <value>İzliyor {0}</value>
   </data>
 </root>
