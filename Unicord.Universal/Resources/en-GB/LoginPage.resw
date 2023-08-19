@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LoadFileButton.Content" xml:space="preserve">
-    <value>Load from file...</value>
+    <value>Dosyadan yükle...</value>
   </data>
   <data name="LoginButton.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>Giriş yap</value>
   </data>
   <data name="LoginWithDiscordButton.Content" xml:space="preserve">
-    <value>Login with Discord</value>
+    <value>Discordla giriş yap</value>
   </data>
   <data name="LoginWithTokenButton.Content" xml:space="preserve">
-    <value>Login with Token</value>
+    <value>Tokenle giriş yap</value>
   </data>
   <data name="TokenTextBox.PlaceholderText" xml:space="preserve">
     <value>Discord Token</value>
