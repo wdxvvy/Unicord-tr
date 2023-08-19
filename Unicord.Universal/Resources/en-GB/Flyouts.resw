@@ -118,79 +118,79 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddReaction.Text" xml:space="preserve">
-    <value>Add Reaction</value>
+    <value>Tepki ekle</value>
   </data>
   <data name="Ban.Text" xml:space="preserve">
-    <value>Ban</value>
+    <value>Yasakla</value>
   </data>
   <data name="ChangeNickname.Text" xml:space="preserve">
-    <value>Change Nickname</value>
+    <value>Takma ad değiştir</value>
   </data>
   <data name="Copy.Text" xml:space="preserve">
-    <value>Copy</value>
+    <value>Kopyala</value>
   </data>
   <data name="CopyID.Text" xml:space="preserve">
-    <value>Copy ID</value>
+    <value>IDyi kopyala</value>
   </data>
   <data name="CopyLink.Text" xml:space="preserve">
-    <value>Copy URL</value>
+    <value>Bağlantıyı kopyala</value>
   </data>
   <data name="CreateServerSubtitle.Text" xml:space="preserve">
-    <value>It's free!</value>
+    <value>Bu bedava!</value>
   </data>
   <data name="CreateServerTitle.Text" xml:space="preserve">
-    <value>Create a new server</value>
+    <value>Yeni sunucu oluştur</value>
   </data>
   <data name="Delete.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Sil</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>Düzenle</value>
   </data>
   <data name="EditMode.Text" xml:space="preserve">
-    <value>Edit Mode</value>
+    <value>Modu düzenle</value>
   </data>
   <data name="JoinExistingServerSubtitle.Text" xml:space="preserve">
-    <value>Use your invites!</value>
+    <value>Davetlerini kullan!</value>
   </data>
   <data name="JoinExistingServerTitle.Text" xml:space="preserve">
-    <value>Join an existing server</value>
+    <value>Varolan sunucuya katıl</value>
   </data>
   <data name="Kick.Text" xml:space="preserve">
-    <value>Kick</value>
+    <value>At</value>
   </data>
   <data name="LeaveServer.Text" xml:space="preserve">
-    <value>Leave Server</value>
+    <value>Sunucudan ayrıl</value>
   </data>
   <data name="MarkAsRead.Text" xml:space="preserve">
     <value>Mark as Read</value>
   </data>
   <data name="Message.Text" xml:space="preserve">
-    <value>Message</value>
+    <value>Mesaj</value>
   </data>
   <data name="Mute.Text" xml:space="preserve">
-    <value>Mute</value>
+    <value>Sustur</value>
   </data>
   <data name="NewWindow.Text" xml:space="preserve">
-    <value>Open in a new Window</value>
+    <value>Yeni pencerede aç</value>
   </data>
   <data name="Pin.Text" xml:space="preserve">
-    <value>Pin Message</value>
+    <value>Mesajı sabitle</value>
   </data>
   <data name="PinToStart.Text" xml:space="preserve">
-    <value>Pin to Start</value>
+    <value>Başlangıça sabitle</value>
   </data>
   <data name="Profile.Text" xml:space="preserve">
-    <value>Profile</value>
+    <value>Profil</value>
   </data>
   <data name="Reply.Text" xml:space="preserve">
-    <value>Reply</value>
+    <value>Yanıtla</value>
   </data>
   <data name="SendMessage.Text" xml:space="preserve">
-    <value>Send Message</value>
+    <value>Mesaj gönder</value>
   </data>
   <data name="ShowFullProfile.Text" xml:space="preserve">
-    <value>Show Full Profile</value>
+    <value>Tüm profili görüntüle</value>
   </data>
   <data name="Unmute.Text" xml:space="preserve">
     <value>Unmute</value>
