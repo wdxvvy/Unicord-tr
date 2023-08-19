@@ -118,48 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AttachmentCopyUrlButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Copy URL</value>
+    <value>Bağlantıyı kopyala</value>
   </data>
   <data name="AttachmentDownloadFailedText" xml:space="preserve">
-    <value>Something went wrong downloading that, maybe try again later?</value>
+    <value>Bunu indirirken bir şeyler ters gitti, belki daha sonra tekrar denersin?</value>
   </data>
   <data name="AttachmentDownloadFailedTitle" xml:space="preserve">
-    <value>Failed to download attachment!</value>
+    <value>Ek indirilemedi!</value>
   </data>
   <data name="AttachmentExtensionPlaceholder" xml:space="preserve">
-    <value>Attachment File Extension</value>
+    <value>Ek Dosya Uzantısı</value>
   </data>
   <data name="AttachmentSaveButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Save</value>
+    <value>Kaydet</value>
   </data>
   <data name="AttachmentShareButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Share</value>
+    <value>Paylaş</value>
   </data>
   <data name="EditButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Edit this clip</value>
+    <value>Bu klibi düzenle</value>
   </data>
   <data name="EmoteSearchBox.PlaceholderText" xml:space="preserve">
-    <value>Search emotes...</value>
+    <value>İfade ara...</value>
   </data>
   <data name="RemoveButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Remove</value>
+    <value>Kaldır</value>
   </data>
   <data name="ReplyingTo.Text" xml:space="preserve">
-    <value>replying to</value>
+    <value>yanıtlamak</value>
   </data>
   <data name="SharingTitleFormat" xml:space="preserve">
-    <value>Sharing {0}</value>
+    <value>Paylaşılıyor {0}</value>
   </data>
   <data name="SpoilerButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Mark as Spoiler</value>
+    <value>Spoiler olarak işaretle</value>
   </data>
   <data name="TranscodeFailedButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Transcode failed!</value>
+    <value>Kod dönüştürme başarısız oldu!</value>
   </data>
   <data name="TranscodingCancelButton.Content" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Kapat</value>
   </data>
   <data name="TranscodingProgressHeader.Text" xml:space="preserve">
-    <value>Transcoding</value>
+    <value>Kod dönüştürme</value>
   </data>
 </root>
