@@ -118,79 +118,79 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChannelReadonlyText" xml:space="preserve">
-    <value>This channel is read-only.</value>
+    <value>Bu kanal sadece okunabilir.</value>
   </data>
   <data name="CloseEditButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Close</value>
+    <value>Kapat</value>
   </data>
   <data name="DeleteAllButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Delete</value>
+    <value>Sil</value>
   </data>
   <data name="ImmuneSlowModeFormat" xml:space="preserve">
-    <value>You're immune to the {0} slow mode in this channel!</value>
+    <value>Bu kanalda {0} yavaş moduna karşı bağışıklısınız</value>
   </data>
   <data name="MassDeleteMessage" xml:space="preserve">
-    <value>Are you sure you wanna delete all these messages?</value>
+    <value>Tüm bu mesajları silmek istediğinden emin misin?</value>
   </data>
   <data name="MassDeleteTitle" xml:space="preserve">
-    <value>Delete these messages?</value>
+    <value>Bu mesajları sil?</value>
   </data>
   <data name="MessageChannelFormat" xml:space="preserve">
-    <value>Message {0}{1}</value>
-    <comment>Message {ChannelPrefix}{ChannelName}</comment>
+    <value>Mesaj {0}{1}</value>
+    <comment>Mesaj {ChannelPrefix}{ChannelName}</comment>
   </data>
   <data name="MoreOptionsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>More</value>
+    <value>Daha fazla</value>
   </data>
   <data name="MuteButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Mute</value>
+    <value>Sustur</value>
   </data>
   <data name="NewWindowItem.Text" xml:space="preserve">
-    <value>Open in a New Window</value>
+    <value>Yeni pencerede aç</value>
   </data>
   <data name="NewWindowNormal.Text" xml:space="preserve">
-    <value>Open in Normal Window</value>
+    <value>Normal pencerede aç</value>
   </data>
   <data name="NewWindowOverlay.Text" xml:space="preserve">
     <value>Open in Overlay Window</value>
   </data>
   <data name="NoMessagesHeader.Text" xml:space="preserve">
-    <value>Nothing to see here!</value>
+    <value>Burada görünecek bir şey yok.</value>
   </data>
   <data name="NoMessagesSubheader.Text" xml:space="preserve">
-    <value>I couldn't load any messages for this channel, sorry!</value>
+    <value>Bu kanal için herhangi bir mesaj yükleyemedim, üzgünüm!</value>
   </data>
   <data name="OpenLocalButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Open</value>
+    <value>Aç</value>
   </data>
   <data name="OpenPopoutButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Take a Photo or Video</value>
+    <value>Fotoğraf ve ya video çek</value>
   </data>
   <data name="PinsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Pinned Messages</value>
+    <value>Sabitlenmiş mesajlar</value>
   </data>
   <data name="PinToStart.Text" xml:space="preserve">
-    <value>Pin to Start</value>
+    <value>Başlangıça sabitle</value>
   </data>
   <data name="ReplyCancel.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Cancel</value>
+    <value>İptal</value>
   </data>
   <data name="ReplyingTo.Text" xml:space="preserve">
-    <value>Replying to</value>
+    <value>Yanıtlamak</value>
   </data>
   <data name="ReplyPingToggle.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Toggle pinging the original author.</value>
+    <value>Orjinal yazara etiketlemeyi değiştirin</value>
   </data>
   <data name="SearchButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Search</value>
+    <value>Ara</value>
   </data>
   <data name="SlowModeFormat" xml:space="preserve">
-    <value>Messages can be sent every {0}!</value>
+    <value>Mesajlar her {0} içinde gönderilebilir !</value>
   </data>
   <data name="UnpinFromStart.Text" xml:space="preserve">
-    <value>Unpin from Start</value>
+    <value>Başlangıçtan sabitlemeyi kaldır</value>
   </data>
   <data name="UserListButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>User List</value>
+    <value>Kullanıcı listesi</value>
   </data>
 </root>
