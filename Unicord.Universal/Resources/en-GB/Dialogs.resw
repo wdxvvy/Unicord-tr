@@ -118,126 +118,126 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BanDeleteFromLastDay.Content" xml:space="preserve">
-    <value>From the last 24 hours</value>
+    <value>Son 24 saat</value>
   </data>
   <data name="BanDeleteFromLastWeek.Content" xml:space="preserve">
-    <value>From the last 7 days</value>
+    <value>Son 7 gün</value>
   </data>
   <data name="BanDeleteMessagesBox.Header" xml:space="preserve">
-    <value>Delete Messages</value>
+    <value>Mesajları sil</value>
   </data>
   <data name="BanDeleteNoMessages.Content" xml:space="preserve">
-    <value>Don't delete messages</value>
+    <value>Mesajları silme</value>
   </data>
   <data name="BanDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Yeah!</value>
+    <value>Evet!</value>
   </data>
   <data name="BanDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Nah</value>
+    <value>Hayır</value>
   </data>
   <data name="BanDialogHeaderFormat" xml:space="preserve">
-    <value>Ban @{0}#{1}?</value>
+    <value>Yasakla @{0}#{1}?</value>
   </data>
   <data name="BanReason.Header" xml:space="preserve">
-    <value>Ban Reason</value>
+    <value>Yasaklama sebebi</value>
   </data>
   <data name="ChangeNicknameDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Save</value>
+    <value>Kaydet</value>
   </data>
   <data name="ChangeNicknameDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>İptal</value>
   </data>
   <data name="ChangeNicknameSubtitle.Text" xml:space="preserve">
-    <value>Nicknames are visible to everyone, so don't be a twat with them yeah?</value>
+    <value>Takma adlar herkes tarafından görülebilir, bu yüzden onlarla alay etme, tamam mı?</value>
   </data>
   <data name="ChangeNicknameTitle.Text" xml:space="preserve">
-    <value>Change Nickname</value>
+    <value>Takma ad değiştir</value>
   </data>
   <data name="ConfirmationDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Yes</value>
+    <value>Evet</value>
   </data>
   <data name="ConfirmationDialog.SecondaryButtonText" xml:space="preserve">
-    <value>No</value>
+    <value>Hayır</value>
   </data>
   <data name="DeleteMessageDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Yeah!</value>
+    <value>Evet!</value>
   </data>
   <data name="DeleteMessageDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Nah</value>
+    <value>Hayır</value>
   </data>
   <data name="DeleteMessageDialog.Title" xml:space="preserve">
-    <value>Delete this message?</value>
+    <value>Bu mesajı silmek istiyormusun?</value>
   </data>
   <data name="ErrorDialog.PrimaryButtonText" xml:space="preserve">
-    <value>OK</value>
+    <value>TAMAM</value>
   </data>
   <data name="InstallThemeBy.Text" xml:space="preserve">
-    <value>By</value>
+    <value>Tarafından</value>
   </data>
   <data name="InstallThemeDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Install</value>
+    <value>Yükle</value>
   </data>
   <data name="InstallThemeDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>İptal</value>
   </data>
   <data name="InvalidThemeFileNotFound" xml:space="preserve">
-    <value>The supplied theme file couldn't be found!</value>
+    <value>Sağlanan tema dosyası bulunamadı!</value>
   </data>
   <data name="InvalidThemeFileNoThemesFound" xml:space="preserve">
-    <value>The supplied theme file doesn't appear to actually contain any themes!</value>
+    <value>Sağlanan tema dosyası aslında herhangi bir tema içeriyor gibi görünmüyor!</value>
   </data>
   <data name="InvalidThemeFileTitle" xml:space="preserve">
-    <value>Invalid theme file!</value>
+    <value>Geçersiz tema dosyası!</value>
   </data>
   <data name="KickDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Yeah!</value>
+    <value>Evet!</value>
   </data>
   <data name="KickDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Nah</value>
+    <value>Hayır</value>
   </data>
   <data name="KickDialogHeaderFormat" xml:space="preserve">
-    <value>Kick @{0}#{1}?</value>
+    <value>At @{0}#{1}?</value>
   </data>
   <data name="KickReason.Header" xml:space="preserve">
-    <value>Kick Reason</value>
+    <value>Atma sebebi</value>
   </data>
   <data name="PinMessageDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Hell yeah!</value>
+    <value>Evet!</value>
   </data>
   <data name="PinMessageDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Maybe not</value>
+    <value>Belki hayır</value>
   </data>
   <data name="PinMessageDialog.Title" xml:space="preserve">
-    <value>Pin this message?</value>
+    <value>Bu mesajı sabitlemek istermisin?</value>
   </data>
   <data name="ProfileConnections.Header" xml:space="preserve">
-    <value>Connections</value>
+    <value>Bağlantılar</value>
   </data>
   <data name="ProfileJoinedServer.Text" xml:space="preserve">
-    <value>Joined Server</value>
+    <value>Katıldığı Sunucular</value>
   </data>
   <data name="ProfileMutualServers.Header" xml:space="preserve">
-    <value>Mutual Servers</value>
+    <value>Ortak sunucular</value>
   </data>
   <data name="ProfileRoles.Text" xml:space="preserve">
-    <value>Roles</value>
+    <value>Roller</value>
   </data>
   <data name="ThemeInstallFailure" xml:space="preserve">
-    <value>Failed to install theme!</value>
+    <value>Tema yüklenemedi!</value>
   </data>
   <data name="TokenDialog.CloseButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>İptal</value>
   </data>
   <data name="TokenDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Login</value>
+    <value>Giriş yap</value>
   </data>
   <data name="TokenDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Load from File</value>
+    <value>Dosyadan yükle</value>
   </data>
   <data name="TokenSubtitle.Text" xml:space="preserve">
-    <value>Don't know where to look? [Click here for a guide.](https://example.com/)</value>
+    <value>Nereye bakacağını bilmiyormusun? [Rehber için buraya tıkla.](https://example.com/)</value>
   </data>
   <data name="TokenTitle.Text" xml:space="preserve">
-    <value>Enter your Discord Token</value>
+    <value>Discord tokenini gir</value>
   </data>
 </root>
